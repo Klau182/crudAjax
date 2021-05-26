@@ -18,10 +18,38 @@
                 <input type="text" name= constelacion placeholder="constelacion" required>
                 <br>
                 <input type="submit" value = Enviar>
-
+                <input type="hidden" name = action>
             </form>
         </article>
 
+        <article>
+            <h2> Ver santos </h2>
+
+            <table class="crud-table">
+                <thead>
+                    <tr>
+                        <th>Nombre</th>
+                        <th>Constelacion</th>
+                        <th>Acciones</th>
+                    </tr>
+                </thead>
+
+                <tbody> </tbody>
+                
+            </table>
+        </article>
+
     </section>
-</body>
+
+    <template id="crud-template">
+        <tr>
+            <td class="name"> </td>
+            <td class="constellation"> </td>
+            <td>
+                <button class="edit"> Editar</button>
+                <button class="delete"> Eliminar</button>
+            </td>
+        </tr>
+    </template>
+    </body>
 </html>

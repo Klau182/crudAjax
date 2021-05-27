@@ -1,69 +1,63 @@
 {
-    "santos": [
-      {
-        "id": 1,
-        "nombre": "xocomah",
-        "constelacion": "pegaso"
-      },
-      {
-        "id": 2,
-        "nombre": "xocorooo",
-        "constelacion": "dragon"
-      },
-      {
-        "id": 3,
-        "nombre": "yoga",
-        "constelacion": "cisne"
-      },
-      {
-        "id": 4,
-        "nombre": "shon",
-        "constelacion": "andromeda"
-      },
-      {
-        "id": 5,
-        "nombre": "pepopin",
-        "constelacion": "connioiris"
-      },
-      {
-        "id": 6
-      },
-      {
-        "id": 7
-      }
-    ],
-    "dioses": [
-      {
-        "id": 1,
-        "nombre": "athenea",
-        "de": "tierra"
-      },
-      {
-        "id": 2,
-        "nombre": "poseidon",
-        "de": "mar"
-      },
-      {
-        "id": 3,
-        "nombre": "hades",
-        "de": "inframundo"
-      },
-      {
-        "id": 4,
-        "nombre": "zeus",
-        "de": "cielo"
-      },
-      {
-        "id": 5
-      },
-      {
-        "id": 6
-      },
-      {
-        "id": 7
-      },
-      {
-        "id": 8
-      }
-    ]
-  }
+  "santos": [
+    {
+      "id": 1,
+      "nombre": "xocomah",
+      "constelacion": "pegaso"
+    },
+    {
+      "id": 2,
+      "nombre": "xocorooo",
+      "constelacion": "dragon"
+    },
+    {
+      "id": 3,
+      "nombre": "yoga",
+      "constelacion": "cisne"
+    },
+    {
+      "id": 4,
+      "nombre": "shon",
+      "constelacion": "andromeda"
+    },
+    {
+      "id": 5,
+      "nombre": "pepopin",
+      "constelacion": "connioiris"
+    }
+  ],
+  "dioses": [
+    {
+      "id": 1,
+      "nombre": "athenea",
+      "de": "tierra"
+    },
+    {
+      "id": 2,
+      "nombre": "poseidon",
+      "de": "mar"
+    },
+    {
+      "id": 3,
+      "nombre": "hades",
+      "de": "inframundo"
+    },
+    {
+      "id": 4,
+      "nombre": "zeus",
+      "de": "cielo"
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    }
+  ]
+}
